@@ -1,8 +1,8 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
 
-NAME = ""
-GROUP = ""
+NAME = "Салахетдинов К.Р."
+GROUP = "БСМО-11-25"
 
 PAGE = f"""<!DOCTYPE html>
 <html lang="ru">
